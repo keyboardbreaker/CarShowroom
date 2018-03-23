@@ -68,7 +68,7 @@ namespace CarsUserObjectCreation
     /* ==================================================================== */
     class Program
     {
-        static void Main(string[] args)
+        static void Mainf(string[] args)
         {
             string response;
 

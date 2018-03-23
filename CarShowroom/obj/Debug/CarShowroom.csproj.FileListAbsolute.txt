@@ -1,6 +1,5 @@
-C:\MyCode\CarShowroom\CarShowroom\bin\Debug\CarShowroom.exe.config
 C:\MyCode\CarShowroom\CarShowroom\bin\Debug\CarShowroom.exe
-C:\MyCode\CarShowroom\CarShowroom\bin\Debug\CarShowroom.pdb
-C:\MyCode\CarShowroom\CarShowroom\obj\Debug\CarShowroom.csprojResolveAssemblyReference.cache
+C:\MyCode\CarShowroom\CarShowroom\bin\Debug\CarShowroom.exe.config
 C:\MyCode\CarShowroom\CarShowroom\obj\Debug\CarShowroom.exe
 C:\MyCode\CarShowroom\CarShowroom\obj\Debug\CarShowroom.pdb
+C:\MyCode\CarShowroom\CarShowroom\bin\Debug\CarShowroom.pdb
