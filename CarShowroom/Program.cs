@@ -47,12 +47,7 @@ namespace CarShowroom
             this.price = price;
             this.sold = false;
             Car.totalNumberCars++;
-        }
-
-        public Car()
-        {
-            Car.totalNumberCars++;
-        }
+        } 
 
         public static Car CreateCar()
         {
