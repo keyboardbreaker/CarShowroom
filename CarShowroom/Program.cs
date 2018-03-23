@@ -17,8 +17,7 @@ namespace CarShowroom
                 switch (userInput)
                 {
                     case "add":
-                        Car carObject = Car.CreateCar();
-                        carlist.Add(carObject);
+                        carlist.Add(Car.CreateCar());
                         break;
 
                     case "show":
