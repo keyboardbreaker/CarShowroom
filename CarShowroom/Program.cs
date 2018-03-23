@@ -16,11 +16,11 @@ namespace CarShowroom
                 userInput = Console.ReadLine();
                 switch (userInput)
                 {
-                    case "add":
+                    case "add": //ADD CREATED CAR OBJECT RETURNED FROM STATIC CAR METHOD IN CAR CLASS
                         carlist.Add(Car.CreateCar());
                         break;
 
-                    case "show":
+                    case "show": //DISPLAY ALL CARS
                         foreach(Car car in carlist)
                             Console.WriteLine("{0} {1} £{2:N}", car.color, car.model, car.price);
                         break;
@@ -49,6 +49,7 @@ namespace CarShowroom
             Car.totalNumberCars++;
         } 
 
+        //any one can call this
         public static Car CreateCar()
         {
             Console.WriteLine("Enter Car Model:");
